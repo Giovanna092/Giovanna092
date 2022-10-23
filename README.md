@@ -5,7 +5,8 @@
 #### 💭 But I also have skills in JavaScript, NodeJs and Python.
 #### 🌟 I am currently looking for an internship.
 
+
 ## 📫 How to reach me:
-- Linkedln: https://www.linkedin.com/in/giovanna-costa-839948234/ 
-- E-mail: giovanna.programadora@gmail.com
+- :email: Linkedln: https://www.linkedin.com/in/giovanna-costa-839948234/ 
+- :computer: E-mail: giovanna.programadora@gmail.com
 
