@@ -8,5 +8,5 @@
 
 ## 📫 How to reach me:
 - :email: Linkedln: https://www.linkedin.com/in/giovanna-costa-839948234/ 
-- :computer: E-mail: giovanna.programadora@gmail.com
+- :computer: E-mail: giovanna.developerbe@gmail.com
 
