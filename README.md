@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Giovanna Welcome to my GitHub!
 #### 👀 See my projects and learn a little more about me.
+#### 🇧🇷 i'm a brazilian developer.
 #### 💞️ I'm study programming a year ago and with each passing day I love more this area.
 #### 💪 Currently I've been dedicating myself a lot in Java.
 #### 💭 But I also have skills in JavaScript, NodeJs and Python.
